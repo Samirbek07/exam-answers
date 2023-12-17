@@ -23,8 +23,9 @@ print(f"The missing number is: {missingnumber}")
 #
 # def find(num):
 #     conc = num // 5
+#     do = conc
 #     if num % 5 > 1:
-#         do = conc + 1
+#         do += 1
 #     return do
 # print(find(people))
 
